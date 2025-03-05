@@ -1,0 +1,20 @@
+.board{
+    display: flex;
+    flex-direction: column;
+    
+    .row{
+        display:flex;
+        flex-direction: row;
+
+    }
+
+    &.updated{
+        .row{
+            .cell{
+                .jeton{
+                    transform: translateY(-100px);
+                }
+            }
+        }
+    }
+}
