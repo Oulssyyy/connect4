@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/connect4/static/css/main.13e70b40.css",
+    "main.js": "/connect4/static/js/main.1fecac55.js",
+    "static/js/787.77f4ac17.chunk.js": "/connect4/static/js/787.77f4ac17.chunk.js",
+    "static/media/confetti-4.gif": "/connect4/static/media/confetti-4.7c62a174e9af32ae4c49.gif",
+    "static/media/dommage.jpg": "/connect4/static/media/dommage.67038c8b08571dcd772f.jpg",
+    "static/media/sticker-poker-jeton-jaune.jpg": "/connect4/static/media/sticker-poker-jeton-jaune.7d1a775a7352618ea9dd.jpg",
+    "static/media/gettyimages-165727231-612x612.jpg": "/connect4/static/media/gettyimages-165727231-612x612.33c3652dedb8841c5437.jpg",
+    "index.html": "/connect4/index.html",
+    "main.13e70b40.css.map": "/connect4/static/css/main.13e70b40.css.map",
+    "main.1fecac55.js.map": "/connect4/static/js/main.1fecac55.js.map",
+    "787.77f4ac17.chunk.js.map": "/connect4/static/js/787.77f4ac17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13e70b40.css",
+    "static/js/main.1fecac55.js"
+  ]
+}
